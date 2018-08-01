@@ -1,0 +1,6 @@
+<meta>
+    <script src="Client.lua" type="client" cache="false"/>
+    <script src="Server.lua" type="server"/>
+    <script src="config.lua" type="server"/>
+    <file src="sirene.mp3"/>
+</meta>
